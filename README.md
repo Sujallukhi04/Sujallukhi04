@@ -1,4 +1,5 @@
 # 💫 About Me:
+#👋 Hi, I'm Sujal Lukhi!
 A passionate Full Stack Developer<br><br>🎓 B.Tech in Information Technology at CHARUSAT (CGPA: 8.72/10)<br><br>💻 Experienced with MERN Stack | Currently learning Next.js and Data Structures & Algorithms<br><br>🌱 Always exploring new technologies and improving coding skills<br><br>⚡ Focused on building web applications and solving problems
 
 
