@@ -1,6 +1,7 @@
-# 💫 About Me:
 # 👋 Hi, I'm **Sujal Lukhi**!  
-A passionate Full Stack Developer<br><br>🎓 B.Tech in Information Technology at CHARUSAT (CGPA: 8.72/10)<br><br>💻 Experienced with MERN Stack | Currently learning Next.js and Data Structures & Algorithms<br><br>🌱 Always exploring new technologies and improving coding skills<br><br>⚡ Focused on building web applications and solving problems
+  A passionate Full Stack Developer<br><br>🎓 B.Tech in Information Technology at CHARUSAT (CGPA: 8.58/10)<br><br>
+🌱 Always learning and evolving through real-world coding challenges
+<br><br>🧠 Focused on strengthening problem-solving and algorithmic thinking<br><br>💡 Passionate about building efficient, user-focused web solutions<br><br>🚀 Committed to continuous growth, clean code, and impactful development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujal-lukhi-95980b284) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujallukhi25@gmail.com) 
@@ -12,7 +13,4 @@ A passionate Full Stack Developer<br><br>🎓 B.Tech in Information Technology a
 ![](https://nirzak-streak-stats.vercel.app/?user=Sujallukhi04&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujallukhi04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sujallukhi04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
